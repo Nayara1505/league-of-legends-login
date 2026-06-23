@@ -5,12 +5,12 @@
 
 🚀 **Funcionalidades Principais:**
 
-🔐 **Formulário de Login** - Campos para nome de usuário e senha com labels flutuantes
-🌐 **Login Social** - Botões para Facebook, Google, Apple, Xbox e PlayStation
-☑️ **Checkbox Customizado** - Opção "Manter login" com estilo próprio
-🖱 **Botão de Submit Dinâmico** - Habilitado/desabilitado conforme preenchimento dos campos
-🖼 **Wallpaper Temático** - Imagem lateral com arte do jogo
-📱 **Design Responsivo** - Adaptado para diferentes tamanhos de tela
+* 🔐 **Formulário de Login** - Campos para nome de usuário e senha com labels flutuantes
+* 🌐 **Login Social** - Botões para Facebook, Google, Apple, Xbox e PlayStation
+* ☑️ **Checkbox Customizado** - Opção "Manter login" com estilo próprio
+* 🖱 **Botão de Submit Dinâmico** - Habilitado/desabilitado conforme preenchimento dos campos
+* 🖼 **Wallpaper Temático** - Imagem lateral com arte do jogo
+* 📱 **Design Responsivo** - Adaptado para diferentes tamanhos de tela
 
 
 🛠 **Tecnologias Utilizadas:**
